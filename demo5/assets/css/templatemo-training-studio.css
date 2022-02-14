@@ -300,7 +300,7 @@ header
   transition: all 0.3s ease 0s;
   height: 40px;
   line-height: 40px;
-  border: transparent;
+  border: #06458100;
   letter-spacing: 1px;
 }
 
@@ -648,13 +648,13 @@ banner
   font-size: 84px;
   text-transform: uppercase;
   font-weight: 800;
-  color: #fff;
+  color: #235d6e;
   letter-spacing: 1px;
 }
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #ed563b;
+  color: #004085;
   font-weight: 900;
 }
 
