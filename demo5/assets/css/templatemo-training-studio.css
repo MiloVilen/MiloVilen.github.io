@@ -951,7 +951,7 @@ trainers
 }
 
 #trainers .trainer-item img {
-  width: 100%;
+  /* width: 100%; */
   border-radius: 200px;
 }
 
